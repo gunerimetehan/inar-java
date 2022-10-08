@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c848a2a5-8149-4436-a3c4-9346b042449a" name="Changes" comment="deneme">
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/CaseStudy6_7_HexToDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_10_RandomCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_11_TestRandomCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_1_TestMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_2_TestVoidMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_3_ReturnGradeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_4_Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_5_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_6_gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_7_PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_9_MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_08/Rotation.java" afterDir="false" />
+    <list default="true" id="c848a2a5-8149-4436-a3c4-9346b042449a" name="Changes" comment="studied on chapter 6 reading part">
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06/Listing6_12_PrintCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_06_Exercises/Exercise6_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters_06/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters_06/KeyPoint_Summation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +73,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Listing6_11_TestRandomCharacter">
-    <configuration name="CaseStudy6_7_HexToDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06.CaseStudy6_7_HexToDec" />
+  <component name="RunManager" selected="Application.Exercise6_39">
+    <configuration name="Exercise6_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06_Exercises.Exercise6_34" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_06.*" />
+          <option name="PATTERN" value="chapters.chapters_06_Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Listing6_10_RandomCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06.Listing6_10_RandomCharacter" />
+    <configuration name="Exercise6_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06_Exercises.Exercise6_35" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_06.*" />
+          <option name="PATTERN" value="chapters.chapters_06_Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Listing6_11_TestRandomCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06.Listing6_11_TestRandomCharacter" />
+    <configuration name="Exercise6_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06_Exercises.Exercise6_36" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_06.*" />
+          <option name="PATTERN" value="chapters.chapters_06_Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Listing6_7_PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06.Listing6_7_PrimeNumbers" />
+    <configuration name="Exercise6_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06_Exercises.Exercise6_38" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_06.*" />
+          <option name="PATTERN" value="chapters.chapters_06_Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Listing6_9_MethodOverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06.Listing6_9_MethodOverLoading" />
+    <configuration name="Exercise6_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_06_Exercises.Exercise6_39" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_06.*" />
+          <option name="PATTERN" value="chapters.chapters_06_Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Listing6_11_TestRandomCharacter" />
-        <item itemvalue="Application.Listing6_10_RandomCharacter" />
-        <item itemvalue="Application.Listing6_9_MethodOverLoading" />
-        <item itemvalue="Application.CaseStudy6_7_HexToDec" />
-        <item itemvalue="Application.Listing6_7_PrimeNumbers" />
+        <item itemvalue="Application.Exercise6_39" />
+        <item itemvalue="Application.Exercise6_38" />
+        <item itemvalue="Application.Exercise6_36" />
+        <item itemvalue="Application.Exercise6_35" />
+        <item itemvalue="Application.Exercise6_34" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664630116817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="studied on chapter 6 reading part">
+      <created>1664747431342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664747431342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deneme" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
+    <MESSAGE value="studied on chapter 6 reading part" />
+    <option name="LAST_COMMIT_MESSAGE" value="studied on chapter 6 reading part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
