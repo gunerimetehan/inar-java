@@ -2,114 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c848a2a5-8149-4436-a3c4-9346b042449a" name="Changes" comment="Chapter 6 completed">
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_1_AnalyzeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_2_DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_3_TestPassArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_4_CountLettersInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_5_VarArgsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_6_LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_7_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Listing7_8_SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07/Trials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_07_Exercises/Exercise7_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Exercise9_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/LinearEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/RegularPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Exercises/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/CircleWithPrivateDataFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/CircleWithStaticMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/Listing9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/Listing9_2_SimpleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TestCircleWithPrivateDataFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TestCircleWithStaticMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TestPassObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TestPoint2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TestTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_09/Listings/TotalArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_01/TestTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_01/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_02/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_03/MyInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_03/TestMyInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_04/MyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_04/TestMyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_05/DisplayingPrimeFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_06/DisplayingPrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_07/ATMMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_08/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_08/TestTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_09/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_09/TestCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_10/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/LargeFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/PalindromeIgnoreNonAlphanumeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/StackOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/TestCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/TestLoanClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/TestStackOFIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/UseBMIClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_10/TwoDimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_12/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_12/SplitInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_12/students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_11/Circle2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_11/TestCircle2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +41,7 @@
       <recent name="chapters.chapters_10.Exercises.Exercise_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCourse">
+  <component name="RunManager" selected="Application.TestCircle2D">
     <configuration name="DisplayingPrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_05.DisplayingPrimeFactors" />
       <module name="inar-java" />
@@ -174,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_09.TestCourse" />
+    <configuration name="TestCircle2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_11.TestCircle2D" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_09.*" />
+          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_03.TestMyInteger" />
+    <configuration name="TestCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_09.TestCourse" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_03.*" />
+          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCircle2D" />
         <item itemvalue="Application.TestCourse" />
         <item itemvalue="Application.DisplayingPrimeNumbers" />
         <item itemvalue="Application.chapters.chapters_10.Exercises.Exercise_05.DisplayingPrimeFactors" />
         <item itemvalue="Application.TestMyPoint" />
-        <item itemvalue="Application.TestMyInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665234366647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter 6 completed">
+      <created>1668254282388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668254282388</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
