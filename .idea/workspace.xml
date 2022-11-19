@@ -1,9 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c848a2a5-8149-4436-a3c4-9346b042449a" name="Changes" comment="Chapter 6 completed">
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_11/Circle2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_11/TestCircle2D.java" afterDir="false" />
+    <list default="true" id="c848a2a5-8149-4436-a3c4-9346b042449a" name="Changes" comment="Chapter 10,some exercises added">
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_12/Triangle2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_13/MyRectangle2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_13/TestMyRectangle2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_14/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_14/TestMyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_15/Exercise_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_16/Exercise_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_17/Exercise_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_18/Exercise_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_19/Exercise_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_20/Exercise_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_21/Exercise_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_22/Exercise_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_22/MyString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_23/Exercise_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_23/MyString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_24/MyCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_25/Exercise_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_26/Exercise_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_27/MyStringBuilder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_28/MyStringBuilder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_01/Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_01/GeometricObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_01/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_02/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_02/Exercise_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_02/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_02/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_03/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_03/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_03/Exercise_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_03/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_04/Exercise_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_05/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_05/Exercise_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_06/Exercise_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_07/Exercise_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_08/Exercise_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_08/NewAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_08/Transactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_10/Exercise_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_10/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_11/Exercise_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_12/Exercise_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_13/Exercise_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_14/Exercise_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Exercises/Exercise_15/Exercise_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/CastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/CircleFromSimpleGeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/DistinctNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/PolymorphismDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/UsefulMethodsForList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/RectangleFromSimpleGeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/SimpleGeometricObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/TestArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapters_11/Listings/TestCircleRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_13/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_13/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_13/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_13/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeks/weeks_13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_10/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Exercises/Exercise_10/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters_10/Listings/Loan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +85,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -41,13 +113,13 @@
       <recent name="chapters.chapters_10.Exercises.Exercise_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCircle2D">
-    <configuration name="DisplayingPrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_05.DisplayingPrimeFactors" />
+  <component name="RunManager" selected="Application.Exercise_16">
+    <configuration name="Exercise_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_11.Exercises.Exercise_08.Exercise_08" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_06.*" />
+          <option name="PATTERN" value="chapters.chapters_11.Exercises.Exercise_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayingPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_06.DisplayingPrimeNumbers" />
+    <configuration name="Exercise_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_11.Exercises.Exercise_11.Exercise_11" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_06.*" />
+          <option name="PATTERN" value="chapters.chapters_11.Exercises.Exercise_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircle2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_11.TestCircle2D" />
+    <configuration name="Exercise_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_11.Exercises.Exercise_12.Exercise_12" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_11.*" />
+          <option name="PATTERN" value="chapters.chapters_11.Exercises.Exercise_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_09.TestCourse" />
+    <configuration name="Exercise_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_11.Exercises.Exercise_13.Exercise_13" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_09.*" />
+          <option name="PATTERN" value="chapters.chapters_11.Exercises.Exercise_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters_10.Exercises.Exercise_04.TestMyPoint" />
+    <configuration name="Exercise_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters_11.Exercises.Exercise_16.Exercise_16" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters_10.Exercises.Exercise_04.*" />
+          <option name="PATTERN" value="chapters.chapters_11.Exercises.Exercise_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCircle2D" />
-        <item itemvalue="Application.TestCourse" />
-        <item itemvalue="Application.DisplayingPrimeNumbers" />
-        <item itemvalue="Application.chapters.chapters_10.Exercises.Exercise_05.DisplayingPrimeFactors" />
-        <item itemvalue="Application.TestMyPoint" />
+        <item itemvalue="Application.Exercise_16" />
+        <item itemvalue="Application.Exercise_13" />
+        <item itemvalue="Application.Exercise_12" />
+        <item itemvalue="Application.Exercise_11" />
+        <item itemvalue="Application.Exercise_08" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668254282388</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter 10,some exercises added">
+      <created>1668254642951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668254642951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +251,8 @@
     <MESSAGE value="deneme" />
     <MESSAGE value="studied on chapter 6 reading part" />
     <MESSAGE value="Chapter 6 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 completed" />
+    <MESSAGE value="Chapter 10,some exercises added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 10,some exercises added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,6 +362,111 @@
           <line>10</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/TestCircleRectangle.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/TestCircleRectangle.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/TestCircleRectangle.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="17" />
@@ -294,6 +479,66 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>3</line>
+          <properties class="chapters.chapters_11.Listings.DynamicBinding" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>18</line>
+          <properties class="chapters.chapters_11.Listings.Student" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/DynamicBinding.java</url>
+          <line>24</line>
+          <properties class="chapters.chapters_11.Listings.Person" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p2.java</url>
+          <line>8</line>
+          <properties class="chapters.chapters_11.Listings.Practice.A" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>10</line>
+          <properties class="chapters.chapters_11.Listings.Practice.C" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/TestCircleRectangle.java</url>
+          <line>3</line>
+          <properties class="chapters.chapters_11.Listings.TestCircleRectangle" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/chapters/chapters_11/Listings/Practice/p3.java</url>
+          <line>9</line>
+          <properties field="i" class="chapters.chapters_11.Listings.Practice.C" />
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

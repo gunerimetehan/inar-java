@@ -17,15 +17,11 @@ public class Queue {
             System.arraycopy(elements, 0, tempElements, 0, elements.length);
             elements = tempElements;
         }
-        // Add to queue by the size after adding increase the size
-
         elements[size] = v;
         size++;
     }
 
     public int dequeue() {
-        // FiFo ---> First in First out
-        // keep the head of the queue
         int n = elements[0];
         // Shifts the queue by one to left
         for (int i = 1; i < size; i++) {

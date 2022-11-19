@@ -9,7 +9,7 @@ public class Loan {
     private double loanAmount;
     private java.util.Date loanDate;
 
-    Loan(){
+    public Loan(){
     this(2.5,1,1000);
     }
     Loan(double annualInterestRate,int numberOfYears,double loanAmount){
